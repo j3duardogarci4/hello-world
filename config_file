@@ -1,0 +1,4 @@
+DEBUG_PROC = True
+LOG_FILE_NAME = 'LogWorld.log'
+DATE_PROCESS = Now
+
