@@ -1,2 +1,2 @@
 # hello-world
-Main Repository of files in Node.js
+Main Repository of files in Node.js considering applications to learn the language
